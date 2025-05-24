@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Teshan Kannangara",
+    "image": "picc",
+    "linkedin": "https://www.linkedin.com/in/teshan-kannangara/",
+    "subjects": ["Theory of Electricity"],
+    "sessions": 1
+  },
+  {
+    "name": "Kalana Lakshan",
+    "image": "picc",
+    "linkedin": "https://linkedin.com/in/",
+    "subjects": ["Theory of Electricity"],
+    "sessions": 1
+  },
+  {
+    "name": "Nirmal Bandara",
+     "image": "picc",
+    "linkedin": "https://www.linkedin.com/in/nirmal-bandara-4b8260341/",
+    "subjects": ["Methods of Mathematics"],
+    "sessions": 3
+  },
+  {
+    "name": "Nipun Rathnayake",
+     "image": "picc",
+    "linkedin": "https://linkedin.com/in/",
+    "subjects": ["Methods of Mathematics"],
+    "sessions": 1
+  },
+  {
+    "name": "Lasan Perera",
+     "image": "picc",
+    "linkedin": "https://linkedin.com/in/",
+    "subjects": ["Methods of Mathematics"],
+    "sessions": 1
+  },
+  {
+    "name": "Adeepa",
+     "image": "picc",
+    "linkedin": "https://linkedin.com/in/",
+    "subjects": ["Methods of Mathematics"],
+    "sessions": 1
+  },
+  {
+    "name": "Suhas Dissanayake",
+     "image": "picc",
+    "linkedin": "https://www.linkedin.com/in/suhasdissa/",
+    "subjects": ["Program Construction"],
+    "sessions": 2
+  },
+
+  {
+    "name": "Sahithyan",
+     "image": "picc",
+    "linkedin": "https://www.linkedin.com/in/sahisahithyan-kandathasan/",
+    "subjects": ["Computer Organization and Digital Design"],
+    "sessions": 1
+  },
+  {
+    "name": "Rashmika Madaela",
+    "image": "picc",
+    "linkedin": "https://www.linkedin.com/in/rashmikamadaela/",
+    "subjects": ["Theory of Electricity"],
+    "sessions": 1
+  },
+  {
+    "name": "Dhinanjaya Fernando",
+    "image": "picc",
+    "linkedin": "https://www.linkedin.com/in/",
+    "subjects": ["Theory of Electricity"],
+    "sessions": 1
+  },
+  {
+    "name": "Tharaka Jayasena",
+    "image": "picc",
+    "linkedin": "https://www.linkedin.com/in/",
+    "subjects": ["Theory of Electricity"],
+    "sessions": 1
+  }
+
+]

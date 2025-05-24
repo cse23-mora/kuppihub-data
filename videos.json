@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "title": "Day 01 (Resonance and Filters)",
+    "description": "RLC resonance, Filters, Low-pass, High-pass, Band-pass, Band-stop, Signal shaping.",
+    "url": "https://drive.google.com/file/d/1Wbb-uWmmHIZ4xeYJWScfxLgiThFLX9HS/view?usp=sharing",
+    "subject": "theory-of-electricity",
+    "author": "Teshan Kannangara",
+    "duration": "01:44:23",
+
+    "publishedAt": "2025-04-25",
+    "telegramDownload": "https://t.me/Zara_TBot/?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDAwOTA0"
+  },
+
+  {
+    "id": 2,
+    "title": "Day 02 (Fundamental and Network Theorems)",
+    "description": "Thevenin's Theorem, Norton's Theorem, Circuit Analysis, Simplification.",
+    "url": "https://drive.google.com/file/d/17szT-pIwYNdCE8nEHL2VD2A8Vo5q7YIe/view?usp=drive_link",
+    "subject": "theory-of-electricity",
+    "author": "Kalana Lakshan",
+    "duration": "02:15:10",
+
+    "publishedAt": "2025-05-02",
+    "telegramDownload": "https://t.me/Zara_TBot/?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDAyMTM4"
+  },
+
+  {
+    "id": 3,
+    "title": "Numerical Kuppi day 01",
+    "description": "Numerical Kuppi day 01",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Nirmal Bandara",
+    "duration": "02:23:49",
+
+    "publishedAt": "2025-03-30",
+    "telegramDownload": "https://t.me/Zara_TBot/?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDAzMzcy"
+  },
+  {
+    "id": 4,
+    "title": "Probability and Statistics Kuppi 01",
+    "description": "--",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Nirmal Bandara",
+    "duration": "03:32:19",
+
+    "publishedAt": "2025-04-22",
+    "telegramDownload": "https://t.me/Zara_TBot/?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDA3MDc0"
+  },
+  {
+    "id": 5,
+    "title": "Multivariable Calculus Kuppi 01",
+    "description": "Single-variable transition, Real-valued functions, Vector-valued functions, Curves, Surfaces, Level sets.",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Nipun Rathnayake",
+    "duration": "02:29:38",
+
+    "publishedAt": "2025-03-04",
+    "telegramDownload": "https://t.me/Zara_TBot/?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDA4MzA4"
+  },
+  {
+    "id": 6,
+    "title": "Multivariable Calculus Kuppi 02",
+    "description": "Tutorial 2, Limits, Continuity.",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Lasan Perera",
+    "duration": "01:31:53",
+
+    "publishedAt": "2025-03-05",
+    "telegramDownload": "https://t.me/Zara_TBot/?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDA3074"
+  },
+  {
+    "id": 7,
+    "title": "Multivariable Calculus Kuppi 03",
+    "description": "Session 03 of the Multivariable Calculus Kuppi series. ",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Adeepa",
+    "duration": "01:17:34",
+
+    "publishedAt": "2025-03-07",
+    "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDcwMDA4",
+    "telegramDownload2": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDcyNDc2"
+  },
+  {
+    "id": 8,
+    "title": "Program Construction CSE Kuppi 01 ",
+    "description": "Part1: Telegram , Part 2: youtube --  OOP Concepts, Memory Allocation.",
+    "url": "https://www.youtube.com/watch?v=1OIcZmpFkVg",
+    "subject": "program-construction",
+    "author": "Suhas Dissanayake",
+    "duration": "01:47:24",
+
+    "publishedAt": "2025-03-27",
+    "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDc2MTc4"
+  },
+  {
+    "id": 9,
+    "title": "COD Kuppi Done by senior batch- 2025:04:01",
+    "description": "--",
+    "url": "",
+    "subject": "computer-organization-and-digital-design",
+    "author": "senior batch",
+    "duration": "03:07:57",
+
+    "publishedAt": "2025-04-01",
+    "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDc4NjQ2"
+  },
+  {
+    "id": 10,
+    "title": "COD Kuppi 01 (English)",
+    "description": "--",
+    "url": "",
+    "subject": "computer-organization-and-digital-design",
+    "author": "Sahithyan",
+    "duration": "02:04:45",
+
+    "publishedAt": "2025-03-29",
+    "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDgyMzQ4"
+  },
+  {
+    "id": 11,
+    "title": "Day 03 (Coupled Circuits)",
+    "description": "Magnetic Field, Coupled Circuits, Mutual Inductance, transformers.",
+    "url": "https://drive.google.com/file/d/1RkhravItp0JenEk6-B9SGOBl9wpATBWV/view?usp=sharing",
+    "subject": "theory-of-electricity",
+    "author": "Rashmika Madaela",
+    "duration": "01:32:49",
+
+    "publishedAt": "2025-05-08",
+    "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDg2MDUw"
+  },
+  {
+    "id": 12,
+    "title": "Design Patterns ",
+    "description": "Creational , Structural  , Behavioral. A Physical Session.",
+    "url": "",
+    "subject": "program-construction",
+    "author": "Suhas Dissanayake",
+    "duration": "01:37:43",
+   
+    "publishedAt": "2025-05-20",
+    "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTIwNjAy",
+    "KuppiMaterial": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTE2OTAw"
+  },
+  {
+    "id": 13,
+    "title": "Double Integral",
+    "description": "There will be some noise for the first 30 minutes. After that it's okay.",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Nirmal Bandara",
+    "duration": "01:26:54",
+   
+    "publishedAt": "2025-05-21",
+    "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTI1NTM4"
+  },
+  {
+    "id": 14,
+    "title": "Laplace transform",
+    "description": "Physical Kuppi Session ",
+    "url": "",
+    "subject": "theory-of-electricity",
+    "author": "Dhinanjaya Fernando",
+    "duration": "03:31:00",
+   
+    "publishedAt": "2025-05-22",
+    "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTI5MjQw"
+  },
+  {
+    "id": 15,
+    "title": "DSA Kuppi ",
+    "description": "Physical Kuppi Session 1. use Your CSE Email to access the video.",
+    
+    "subject": "data-structures-and-algorithms",
+    "author": "Tharaka Jayasena",
+    "duration": "02:53:39",
+    "url": "https://drive.google.com/file/d/1WuQ-JiAteXr59Cuo71p193KgYy7B-eWm/view?usp=sharing",
+    "publishedAt": "2025-05-23",
+    "telegramDownload": ""
+  },
+  {
+    "id": 16,
+    "title": "Maths Tutorials Answers ",
+    "description": "All answers for the Maths Tutorials. Special Thanks to Nirmal Bandara for the effort.",
+
+    "DownloadLink": "https://dms.uom.lk/f/53869025",
+    "subject": "methods-of-mathematics",
+    "author": "Nirmal Bandara",
+  
+ 
+    "publishedAt": "2025-05-23"
+   
+  }
+]
