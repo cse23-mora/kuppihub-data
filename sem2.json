@@ -245,5 +245,19 @@
 
     "publishedAt": "2025-05-31",
     "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjEwNjg0"
+  },
+  {
+    "id": 21,
+    "title": "Calculus | Differential Equation Physical kuppi 01",
+    "description": "First sem DE & Exact DE",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Nirmal Bandara",
+    "duration": "01:24:27",
+   "YoutubeVideo": "",
+
+    "publishedAt": "2025-06-03",
+    "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjE4MDg4",
+     "KuppiMaterial": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjIwNTU2"
   }
 ]
