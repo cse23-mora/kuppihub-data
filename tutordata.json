@@ -4,7 +4,7 @@
     "image": "picc",
     "linkedin": "https://www.linkedin.com/in/teshan-kannangara/",
     "subjects": ["Theory of Electricity"],
-    "sessions": 1
+    "sessions": 2
   },
   {
     "name": "Kalana Lakshan",
@@ -18,7 +18,7 @@
      "image": "picc",
     "linkedin": "https://www.linkedin.com/in/nirmal-bandara-4b8260341/",
     "subjects": ["Methods of Mathematics"],
-    "sessions": 3
+    "sessions": 4
   },
   {
     "name": "Nipun Rathnayake",
@@ -75,6 +75,14 @@
     "image": "picc",
     "linkedin": "https://www.linkedin.com/in/",
     "subjects": ["Theory of Electricity"],
+    "sessions": 1
+  },
+  
+  {
+    "name": "Thashira",
+    "image": "picc",
+    "linkedin": "https://www.linkedin.com/in/",
+    "subjects": ["Computer Organization and Digital Design"],
     "sessions": 1
   }
 
