@@ -188,12 +188,62 @@
     "title": "Maths Tutorials Answers ",
     "description": "All answers for the Maths Tutorials. Special Thanks to Nirmal Bandara for the effort.",
 
-    "DownloadLink": "https://dms.uom.lk/f/53869025",
+    "DownloadLink": "https://dms.uom.lk/s/XXjw3BDjgkk5JZa",
     "subject": "methods-of-mathematics",
     "author": "Nirmal Bandara",
   
  
     "publishedAt": "2025-05-23"
    
+  },
+  {
+    "id": 17,
+    "title": "Fourier Series",
+    "description": "Physical Kuppi Session - Seminar Room.",
+    "url": "",
+    "subject": "theory-of-electricity",
+    "author": "Teshan Kannangara",
+    "duration": "01:42:23",
+
+    "publishedAt": "2025-05-26",
+    "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTM2NjQ0"
+  },
+   {
+    "id": 18,
+    "title": "I/O modules 2025.05.28 CODD Kuppi",
+    "description": "--",
+    "url": "",
+    "subject": "computer-organization-and-digital-design",
+    "author": "Thashira",
+    "duration": "00:20:45",
+
+    "publishedAt": "2025-05-28",
+    "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTk1ODc2"
+  },
+  {
+    "id": 19,
+    "title": "Numerical Methods  Physical Kuppi",
+    "description": "Newton's method, jecobian,  Gauss-Seidel method, interpolation and approximation.",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Nirmal Bandara",
+    "duration": "02:30:54",
+ 
+
+    "publishedAt": "2025-05-30",
+    "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjA1NzQ4"
+  },
+  {
+    "id": 20,
+    "title": "Numerical Methods  Physical Kuppi 2",
+    "description": "Numerical differentiation and integration, Simpson's 1/3 Rule",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Nirmal Bandara",
+    "duration": "01:25:27",
+   "YoutubeVideo": "https://www.youtube.com/watch?v=14ETShn7bxY",
+
+    "publishedAt": "2025-05-31",
+    "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjEwNjg0"
   }
 ]
