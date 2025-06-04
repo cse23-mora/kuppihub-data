@@ -259,5 +259,19 @@
     "publishedAt": "2025-06-03",
     "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjE4MDg4",
      "KuppiMaterial": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjIwNTU2"
+  },
+  {
+    "id": 22,
+    "title": "Calculus | Differential Equation Physical kuppi 02",
+    "description": "Exact ODE & ...",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Nirmal Bandara",
+    "duration": "01:22:27",
+   "YoutubeVideo": "https://youtu.be/UsT6eRev2LQ",
+
+    "publishedAt": "2025-06-04",
+    "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjI0MjU4",
+     "KuppiMaterial": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjI0MjU4"
   }
 ]
