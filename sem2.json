@@ -273,5 +273,19 @@
     "publishedAt": "2025-06-04",
     "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjI0MjU4",
      "KuppiMaterial": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjI3OTYw"
+  },
+  {
+    "id": 23,
+    "title": "Calculus | Differential Equation Physical kuppi 03",
+    "description": " Errors of Interpolating Polynomials ,Linear Regression, Polynomial Regression",
+    "url": "",
+    "subject": "methods-of-mathematics",
+    "author": "Nirmal Bandara",
+    "duration": "00:37:27",
+   "YoutubeVideo": "https://youtu.be/LrwQXhPgc9A",
+
+    "publishedAt": "2025-06-05",
+    "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjMyODk2",
+     "KuppiMaterial": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjM1MzY0"
   }
 ]
