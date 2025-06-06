@@ -287,5 +287,17 @@
     "publishedAt": "2025-06-05",
     "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjMyODk2",
      "KuppiMaterial": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjM1MzY0"
-  }
+  },
+    {
+    "id": 24,
+    "title": "DSA Graph Kuppi ( Tamil)",
+    "description": "DSA Graph kuppi.(Tamil medium)",
+    
+    "subject": "data-structures-and-algorithms",
+    "author": "S.Ruththiragayan",
+    "duration": "02:02:39",
+    "url": "https://dms.uom.lk/s/EydBF4LfmLwTxH6",
+    "publishedAt": "2025-06-06",
+    "telegramDownload": ""
+  },
 ]
