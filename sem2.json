@@ -301,5 +301,18 @@
     "telegramDownload": "",
     "YoutubeVideo": "https://youtu.be/KIZ1B5_7xzA"
 
+  },
+  {
+    "id": 12,
+    "title": "Design Patterns(Tamil) ",
+    "description": "Creational , Structural  , Behavioral.",
+    "url": "https://dms.uom.lk/s/9fttCanSfXX4NPq",
+    "subject": "program-construction",
+    "author": "Sahithyan",
+    "duration": "02:06:43",
+   
+    "publishedAt": "2025-06-07",
+    "telegramDownload": "",
+     "YoutubeVideo": "#"
   }
 ]
