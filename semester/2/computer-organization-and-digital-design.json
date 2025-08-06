@@ -1,0 +1,36 @@
+{
+  "subject": {
+    "id": "computer-organization-and-digital-design",
+    "name": "Computer Organization and Digital Design",
+    "semester": 2
+  },
+  "items": [
+    {
+      "id": 9,
+      "title": "COD Kuppi Done by senior batch- 2025:04:01",
+      "description": "COD Kuppi Done by senior batch",
+      "author": "senior batch",
+      "duration": "03:07:57",
+      "publishedAt": "2025-04-01",
+      "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDc4NjQ2"
+    },
+    {
+      "id": 10,
+      "title": "COD Kuppi 01 (English)",
+      "description": "COD Kuppi 01 (English)",
+      "author": "Sahithyan",
+      "duration": "02:04:45",
+      "publishedAt": "2025-03-29",
+      "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDgyMzQ4"
+    },
+    {
+      "id": 18,
+      "title": "I/O modules 2025.05.28 CODD Kuppi",
+      "description": "I/O modules CODD Kuppi",
+      "author": "Thashira",
+      "duration": "00:20:45",
+      "publishedAt": "2025-05-28",
+      "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTk1ODc2"
+    }
+  ]
+}

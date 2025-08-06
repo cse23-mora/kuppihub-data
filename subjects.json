@@ -1,0 +1,104 @@
+{
+  "semesters": [
+    {
+      "id": 2,
+      "name": "Semester 2",
+      "description": "Foundation semester covering mathematical methods, data structures, electrical theory, and programming fundamentals",
+      "image": "https://kuppihub.cse23.org/subjects/artificial-intelligence.webp",
+      "subjects": [
+        {
+          "id": "method-of-mathematics",
+          "title": "Method of Mathematics",
+          "description": "Mathematical foundations including calculus, linear algebra, discrete mathematics, and statistical methods for computer science applications",
+          "image": "https://kuppihub.cse23.org/subjects/artificial-intelligence.webp"
+        },
+        {
+          "id": "data-structures-and-algorithms",
+          "title": "Data Structures and Algorithms",
+          "description": "Fundamental data structures (arrays, linked lists, trees, graphs) and algorithmic techniques including sorting, searching, and complexity analysis",
+          "image": "https://kuppihub.cse23.org/subjects/data-structures-and-algorithms.webp"
+        },
+        {
+          "id": "theory-of-electricity",
+          "title": "Theory of Electricity",
+          "description": "Basic electrical principles including DC/AC circuits, Ohm's law, Kirchhoff's laws, capacitors, inductors, and electrical measurements",
+          "image": "https://kuppihub.cse23.org/subjects/theory-of-electricity.webp"
+        },
+        {
+          "id": "computer-organization-and-digital-design",
+          "title": "Computer Organization & Digital Design",
+          "description": "Computer hardware fundamentals including digital logic, Boolean algebra, combinational and sequential circuits, and basic computer organization",
+          "image": "https://kuppihub.cse23.org/subjects/computer-organization-and-digital-design.webp"
+        },
+        {
+          "id": "program-construction",
+          "title": "Program Construction",
+          "description": "Software development principles including object-oriented programming, design patterns, debugging, testing, and software engineering practices",
+          "image": "https://kuppihub.cse23.org/subjects/program-construction.webp"
+        },
+        {
+          "id": "communication-skills-sem2",
+          "title": "Communication Skills",
+          "description": "Essential communication skills for engineers including technical writing, presentation skills, interpersonal communication, and professional correspondence",
+          "image": "https://kuppihub.cse23.org/subjects/communication-skills.webp"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Semester 3",
+      "description": "Advanced semester focusing on AI, computer architecture, database systems, and core engineering principles",
+      "image": "https://kuppihub.cse23.org/subjects/artificial-intelligence.webp",
+      "subjects": [
+        {
+          "id": "artificial-intelligence",
+          "title": "Artificial Intelligence",
+          "description": "Introduction to AI concepts including search algorithms, knowledge representation, machine learning fundamentals, neural networks, and expert systems",
+          "image": "https://kuppihub.cse23.org/subjects/artificial-intelligence.webp"
+        },
+        {
+          "id": "computer-architecture",
+          "title": "Computer Architecture",
+          "description": "Advanced computer hardware concepts including CPU design, memory hierarchies, instruction sets, pipelining, and performance optimization",
+          "image": "https://kuppihub.cse23.org/subjects/computer-architecture.webp"
+        },
+        {
+          "id": "thermodynamics",
+          "title": "Thermodynamics",
+          "description": "Heat transfer principles, thermodynamic processes, energy conversion, entropy, and applications in engineering systems and computing hardware",
+          "image": "https://kuppihub.cse23.org/subjects/thermodynamics.webp"
+        },
+        {
+          "id": "database-systems",
+          "title": "Database Systems",
+          "description": "Database design principles, relational models, SQL, normalization, transaction management, and database management system concepts",
+          "image": "https://kuppihub.cse23.org/subjects/database-systems.webp"
+        },
+        {
+          "id": "differential-equations",
+          "title": "Differential Equations",
+          "description": "Advanced mathematics covering ordinary and partial differential equations, Laplace transforms, and their applications in engineering problems",
+          "image": "https://kuppihub.cse23.org/subjects/differential-equations.webp"
+        },
+        {
+          "id": "operating-systems",
+          "title": "Operating Systems",
+          "description": "OS fundamentals including process management, memory management, file systems, scheduling algorithms, and system security concepts",
+          "image": "https://kuppihub.cse23.org/subjects/operating-systems.webp"
+        },
+        {
+          "id": "communication-skills-sem3",
+          "title": "Communication Skills",
+          "description": "Advanced communication skills including technical documentation, project presentations, team collaboration, and professional ethics in engineering",
+          "image": "https://kuppihub.cse23.org/subjects/communication-skills.webp"
+        },
+        {
+          "id": "applied-statics",
+          "title": "Applied Statics",
+          "description": "Fundamental principles of statics including force systems, equilibrium, structural analysis, trusses, and engineering mechanics applications",
+          "image": "https://kuppihub.cse23.org/subjects/applied-statics.webp"
+        }
+      ]
+    }
+  ]
+}

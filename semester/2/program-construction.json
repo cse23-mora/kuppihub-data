@@ -1,0 +1,39 @@
+{
+  "subject": {
+    "id": "program-construction",
+    "name": "Program Construction",
+    "semester": 2
+  },
+  "items": [
+    {
+      "id": 8,
+      "title": "Program Construction CSE Kuppi 01",
+      "description": "Part1: Telegram , Part 2: youtube -- OOP Concepts, Memory Allocation.",
+      "author": "Suhas Dissanayake",
+      "duration": "01:47:24",
+      "publishedAt": "2025-03-27",
+      "url": "https://www.youtube.com/watch?v=1OIcZmpFkVg",
+      "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDc2MTc4"
+    },
+    {
+      "id": 12,
+      "title": "Design Patterns",
+      "description": "Creational , Structural , Behavioral. A Physical Session.",
+      "author": "Suhas Dissanayake",
+      "duration": "01:37:43",
+      "publishedAt": "2025-05-20",
+      "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTIwNjAy",
+      "kuppiMaterial": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTE2OTAw"
+    },
+    {
+      "id": 25,
+      "title": "Design Patterns(Tamil)",
+      "description": "Creational , Structural , Behavioral.",
+      "author": "Sahithyan",
+      "duration": "02:06:43",
+      "publishedAt": "2025-06-07",
+      "url": "https://dms.uom.lk/s/9fttCanSfXX4NPq",
+      "youtubeVideo": "https://youtu.be/u9ut_BQXL68"
+    }
+  ]
+}

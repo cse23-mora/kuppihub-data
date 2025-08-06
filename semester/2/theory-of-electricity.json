@@ -1,0 +1,57 @@
+{
+  "subject": {
+    "id": "theory-of-electricity",
+    "name": "Theory of Electricity",
+    "semester": 2
+  },
+  "items": [
+    {
+      "id": 1,
+      "title": "Day 01 (Resonance and Filters)",
+      "description": "RLC resonance, Filters, Low-pass, High-pass, Band-pass, Band-stop, Signal shaping.",
+      "author": "Teshan Kannangara",
+      "duration": "01:44:23",
+      "publishedAt": "2025-04-25",
+      "url": "https://drive.google.com/file/d/1Wbb-uWmmHIZ4xeYJWScfxLgiThFLX9HS/view?usp=sharing",
+      "telegramDownload": "https://t.me/Zara_TBot/?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDAwOTA0"
+    },
+    {
+      "id": 2,
+      "title": "Day 02 (Fundamental and Network Theorems)",
+      "description": "Thevenin's Theorem, Norton's Theorem, Circuit Analysis, Simplification.",
+      "author": "Kalana Lakshan",
+      "duration": "02:15:10",
+      "publishedAt": "2025-05-02",
+      "url": "https://drive.google.com/file/d/17szT-pIwYNdCE8nEHL2VD2A8Vo5q7YIe/view?usp=drive_link",
+      "telegramDownload": "https://t.me/Zara_TBot/?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDAyMTM4"
+    },
+    {
+      "id": 11,
+      "title": "Day 03 (Coupled Circuits)",
+      "description": "Magnetic Field, Coupled Circuits, Mutual Inductance, transformers.",
+      "author": "Rashmika Madaela",
+      "duration": "01:32:49",
+      "publishedAt": "2025-05-08",
+      "url": "https://drive.google.com/file/d/1RkhravItp0JenEk6-B9SGOBl9wpATBWV/view?usp=sharing",
+      "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNDg2MDUw"
+    },
+    {
+      "id": 14,
+      "title": "Laplace transform",
+      "description": "Physical Kuppi Session",
+      "author": "Dhinanjaya Fernando",
+      "duration": "03:31:00",
+      "publishedAt": "2025-05-22",
+      "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTI5MjQw"
+    },
+    {
+      "id": 17,
+      "title": "Fourier Series",
+      "description": "Physical Kuppi Session - Seminar Room.",
+      "author": "Teshan Kannangara",
+      "duration": "01:42:23",
+      "publishedAt": "2025-05-26",
+      "telegramDownload": "https://t.me/Zara_TBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNTM2NjQ0"
+    }
+  ]
+}

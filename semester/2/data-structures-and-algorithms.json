@@ -1,0 +1,28 @@
+{
+  "subject": {
+    "id": "data-structures-and-algorithms",
+    "name": "Data Structures and Algorithms",
+    "semester": 2
+  },
+  "items": [
+    {
+      "id": 15,
+      "title": "DSA Kuppi",
+      "description": "Physical Kuppi Session 1. use Your CSE Email to access the video.",
+      "author": "Tharaka Jayasena",
+      "duration": "02:53:39",
+      "publishedAt": "2025-05-23",
+      "url": "https://drive.google.com/file/d/1WuQ-JiAteXr59Cuo71p193KgYy7B-eWm/view?usp=sharing"
+    },
+    {
+      "id": 24,
+      "title": "DSA Graph Kuppi ( Tamil)",
+      "description": "DSA Graph kuppi.(Tamil medium)",
+      "author": "S.Ruththiragayan",
+      "duration": "02:02:39",
+      "publishedAt": "2025-06-06",
+      "url": "https://dms.uom.lk/s/EydBF4LfmLwTxH6",
+      "youtubeVideo": "https://youtu.be/KIZ1B5_7xzA"
+    }
+  ]
+}
