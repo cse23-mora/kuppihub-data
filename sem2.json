@@ -328,5 +328,19 @@
      "YoutubeVideo": "",
     "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjYwMDQ0",
     "telegramDownload2": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNjYzNzQ2"
-  }
+  },
+ {
+    "id": 27,
+    "title": "Operating-System Services kuppi 1 ",
+    "description": "Operating-System first two  slides",
+    "url": "",
+    "subject": "operating-systems",
+    "author": "Teshan Kannangara",
+    "duration": "01:01:00",
+    "publishedAt": "2025-08-12",
+
+     "YoutubeVideo": "https://youtu.be/au-BFVVKnDU",
+    "telegramDownload": "",
+ 
+  },
 ]
