@@ -342,5 +342,16 @@
      "YoutubeVideo": "https://youtu.be/au-BFVVKnDU",
     "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzA4MTcw"
  
+  },
+   {
+    "id": 28,
+    "title": "Computer Architecture Kuppi 1 ",
+    "description": "Computer Architecture Kuppi | Semester 3 | By Tharaka Jayasena",
+    "url": "",
+    "subject": "computer-architecture",
+    "author": "Tharaka Jayasena",
+    "duration": "01:08:23",
+    "publishedAt": "2025-08-13",
+     "YoutubeVideo": "https://youtu.be/3pJ55-PYU7k" 
   }
 ]
