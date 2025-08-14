@@ -97,7 +97,17 @@
           "title": "Applied Statics",
           "description": "Fundamental principles of statics including force systems, equilibrium, structural analysis, trusses, and engineering mechanics applications",
           "image": "https://kuppihub.cse23.org/subjects/applied-statics.webp"
+        },
+         {
+          "id": "data-communication-and-networking",
+          "title": "Data Communication and Networking",
+          "description": "Covers the principles, architectures, and protocols of data communication systems, including network models, transmission methods, and modern networking technologies.",
+          "image": ""
         }
+
+
+
+        
       ]
     }
   ]
