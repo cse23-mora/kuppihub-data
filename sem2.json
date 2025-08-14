@@ -340,7 +340,7 @@
     "publishedAt": "2025-08-12",
 
      "YoutubeVideo": "https://youtu.be/au-BFVVKnDU",
-    "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzA4MTcw"
+   
  
   },
    {
@@ -353,5 +353,27 @@
     "duration": "01:08:23",
     "publishedAt": "2025-08-13",
      "YoutubeVideo": "https://youtu.be/3pJ55-PYU7k" 
+  },
+   {
+    "id": 28,
+    "title": "Data Communication & Networking Kuppi 1",
+    "description": "Data Communication & Networking Kuppi 1 | Semester 3 | By Kalana Lakshan",
+    "url": "",
+    "subject": "computer-architecture",
+    "author": "Kalana Lakshan",
+    "duration": "01:15:00",
+    "publishedAt": "2025-08-14",
+     "YoutubeVideo": "" ,
+      "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzEwNjM4"
   }
+
+
+
+
+
+
+
+
+
+  
 ]
