@@ -365,6 +365,19 @@
     "publishedAt": "2025-08-14",
      "YoutubeVideo": "https://youtu.be/BZkY_ned5Mw" ,
       "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzEwNjM4"
-  }
+  },
+  {
+    "id": 30,
+    "title": "Data Communication & Networking Kuppi 2",
+    "description": "Data Communication & Networking Kuppi 2 | Semester 3 | By Kalana Lakshan",
+    "url": "",
+    "subject": "data-communication-and-networking",
+    "author": "Kalana Lakshan",
+    "duration": "02:17:00",
+    "publishedAt": "2025-08-24",
+     "YoutubeVideo": "" ,
+      "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzM1MzE4",
+    "KuppiMaterial":"https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzM0MDg0"
+   }
 
 ]
