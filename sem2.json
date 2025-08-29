@@ -388,9 +388,22 @@
     "author": "Dhinanjaya Fernando",
     "duration": "02:43:00",
     "publishedAt": "2025-08-28",
-     "YoutubeVideo": "" ,
+     "YoutubeVideo": "https://youtu.be/VkIaX3azV80" ,
       "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzM3Nzg2",
     "KuppiMaterial":"https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzM2NTUy"
+   },
+  {
+    "id": 32,
+    "title": "Differential equations kuppi 3 | Fourier series",
+    "description": "Differential equations kuppi 3 | Fourier series  | Semester 3 | By Dhinanjaya Fernando  2025.08.29",
+    "url": "",
+    "subject": "differential-equations",
+    "author": "Dhinanjaya Fernando",
+    "duration": "03:36:00",
+    "publishedAt": "2025-08-29",
+     "YoutubeVideo": "https://youtu.be/jdUi67_7Sdo" ,
+      "telegramDownload": "https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzM5MDIw",
+    "KuppiMaterial":"https://t.me/kuppihubBot?start=MTIzNTkwMjYyNDMwMjM4Ni8zNzQwMjU0"
    }
 
 ]
